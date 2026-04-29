@@ -8,5 +8,4 @@ It simulates real-world IAM processes including:
 - Role based access control (RBAC)
 - Access Validation
 - File/folder access control
-- 
 
