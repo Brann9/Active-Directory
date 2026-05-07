@@ -23,9 +23,6 @@ Server Dashboard
 
 Domain & OU 
 
-<img width="1330" height="489" alt="image" src="https://github.com/user-attachments/assets/160ba01f-9164-4487-ade2-a03efd2af4a2" />
-
-
 Domain Structure
 
 <img width="1330" height="489" alt="image" src="https://github.com/user-attachments/assets/f66476ec-868a-4ec3-a309-1fffa7bb8480" />
@@ -33,17 +30,28 @@ Domain Structure
 
 OU Structure
 
+<img width="1367" height="598" alt="image" src="https://github.com/user-attachments/assets/6d0f208d-6082-4c2c-a6d0-44e0862013b6" />
+
+
 Security Groups (RBAC)
 
-Security Group
+Security Groups
+
+<img width="1365" height="649" alt="image" src="https://github.com/user-attachments/assets/0f3e25d9-36c8-4cdb-805a-b7f90a9a9bc6" />
 
 User Provioning (Joiner)
 
+<img width="1282" height="479" alt="image" src="https://github.com/user-attachments/assets/f5bab6c1-e53a-44e1-adbc-cec10001edbb" />
+
+
 Role-Based Access Control (RBAC)
+
+<img width="1282" height="479" alt="image" src="https://github.com/user-attachments/assets/7928efb4-f751-4495-b172-19cb3dd951bc" />
 
 Access Validation (Before Role Change)
 
-Role Change (Mover)
+<img width="1282" height="479" alt="image" src="https://github.com/user-attachments/assets/561ed281-3192-47fe-a9b9-e061d6c105e4" />
+
 
 File/Folder Access Control
 
