@@ -1,4 +1,4 @@
-# Active-Directory
+# Active-Directory Lab
 This home lab demonstrates hands-on Identity and Access Management (IAM) using an Active Directory (AD) on RaspberryPi
 It simulates real-world IAM processes including:
 
@@ -9,7 +9,7 @@ It simulates real-world IAM processes including:
 - Access Validation
 - File/folder access control
 
-Environment Setup
+## Environment Setup
 
 Windows 2012 Server domain controller was configured with Active Directory Domain Services (AD DS) and DNS
 
