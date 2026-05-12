@@ -33,7 +33,8 @@ A domain (thm.local) was created with Organization Unit (OUs) to reflect differe
 
 ### Domain Structure 
 
-<img style="max-width: 100%;" alt="image" src="https://github.com/user-attachments/assets/424d1d9b-b1ef-4551-bf53-8b8acfcd6a06" />
+<img width="802" height="265" alt="image" src="https://github.com/user-attachments/assets/aa159f26-db5c-4ae6-bc94-0772ae27f33c" />
+
 
 
 
