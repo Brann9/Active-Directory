@@ -35,9 +35,6 @@ A domain (thm.local) was created with Organization Unit (OUs) to reflect differe
 
 <img width="802" height="265" alt="image" src="https://github.com/user-attachments/assets/aa159f26-db5c-4ae6-bc94-0772ae27f33c" />
 
-
-
-
 OU Structure
 
 <img width="1367" height="598" alt="image" src="https://github.com/user-attachments/assets/6d0f208d-6082-4c2c-a6d0-44e0862013b6" />
@@ -47,7 +44,8 @@ Security Groups (RBAC)
 
 Security Groups
 
-<img width="1365" height="649" alt="image" src="https://github.com/user-attachments/assets/0f3e25d9-36c8-4cdb-805a-b7f90a9a9bc6" />
+<img width="831" height="530" alt="image" src="https://github.com/user-attachments/assets/49e1aaab-c41a-4ce3-8622-e23e1a08a7d2" />
+
 
 User Provioning (Joiner)
 
