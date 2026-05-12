@@ -15,7 +15,7 @@ It simulates real-world IAM processes including:
 Windows 2012 Server domain controller was configured with Active Directory Domain Services (AD DS) and DNS
 
 ### Domain Controller Login
-<img width="980" height="362" alt="image" src="https://github.com/user-attachments/assets/7feb8d79-8c3e-4313-ab9a-13436758551b" />
+<img width="680" height="362" alt="image" src="https://github.com/user-attachments/assets/7feb8d79-8c3e-4313-ab9a-13436758551b" />
 
 ### Server Dashboard
 
