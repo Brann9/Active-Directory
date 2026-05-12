@@ -51,7 +51,7 @@ User Provioning (Joiner)
 
 Role-Based Access Control (RBAC)
 
-<img width="1282" height="479" alt="image" src="https://github.com/user-attachments/assets/7928efb4-f751-4495-b172-19cb3dd951bc" />
+<img width="824" height="403" alt="588650376-7928efb4-f751-4495-b172-19cb3dd951bc" src="https://github.com/user-attachments/assets/f3978715-dd63-4359-9f62-c0b623b1c01b" />
 
 Access Validation (Before Role Change)
 
