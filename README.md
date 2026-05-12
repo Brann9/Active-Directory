@@ -24,14 +24,14 @@ Windows 2012 Server domain controller was configured with Active Directory Domai
 
 ## Domain & OU 
 
-### Domain Structure
+A domain (thm.local) was created with Organization Unit (OUs) to reflect different departents:
 
 - IT
 - Sales
 - Marketing
 - Management
 
-A domain (thm.local) was created with Organization Unit (OUs) to reflect different departents: 
+### Domain Structure 
 
 <img width="1330" height="489" alt="image" src="https://github.com/user-attachments/assets/f66476ec-868a-4ec3-a309-1fffa7bb8480" />
 
