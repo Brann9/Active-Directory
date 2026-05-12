@@ -55,7 +55,7 @@ Role-Based Access Control (RBAC)
 
 Access Validation (Before Role Change)
 
-<img width="1282" height="479" alt="image" src="https://github.com/user-attachments/assets/561ed281-3192-47fe-a9b9-e061d6c105e4" />
+<img width="817" height="414" alt="588653142-561ed281-3192-47fe-a9b9-e061d6c105e4" src="https://github.com/user-attachments/assets/693bc501-106e-44cc-979a-7776e9d2f0dc" />
 
 Role Change (Mover)
 <img width="842" height="422" alt="image" src="https://github.com/user-attachments/assets/caef7281-d7f9-4fbd-b8e2-2df02d43b9d4" />
