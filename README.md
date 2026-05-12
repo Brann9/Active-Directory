@@ -45,11 +45,9 @@ Security Groups
 
 <img width="831" height="530" alt="image" src="https://github.com/user-attachments/assets/49e1aaab-c41a-4ce3-8622-e23e1a08a7d2" />
 
-
 User Provioning (Joiner)
 
-<img width="1282" height="479" alt="image" src="https://github.com/user-attachments/assets/f5bab6c1-e53a-44e1-adbc-cec10001edbb" />
-
+<img width="814" height="405" alt="588650178-f5bab6c1-e53a-44e1-adbc-cec10001edbb" src="https://github.com/user-attachments/assets/b98612f2-4fd7-49c2-b513-112725632c03" />
 
 Role-Based Access Control (RBAC)
 
