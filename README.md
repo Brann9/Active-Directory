@@ -22,9 +22,9 @@ Windows 2012 Server domain controller was configured with Active Directory Domai
 <img width="1311" height="925" alt="image" src="https://github.com/user-attachments/assets/5a4f2362-1c78-4af8-b683-6a28d9789443" />
 
 
-Domain & OU 
+## Domain & OU 
 
-Domain Structure
+### Domain Structure
 
 <img width="1330" height="489" alt="image" src="https://github.com/user-attachments/assets/f66476ec-868a-4ec3-a309-1fffa7bb8480" />
 
