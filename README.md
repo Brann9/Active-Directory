@@ -60,15 +60,13 @@ Access Validation (Before Role Change)
 Role Change (Mover)
 <img width="842" height="422" alt="image" src="https://github.com/user-attachments/assets/caef7281-d7f9-4fbd-b8e2-2df02d43b9d4" />
 
-
 User Deprovisioning (Leaver)
 
 Account Disabled
 
 Administrative Access Control
 
-<img width="842" height="422" alt="image" src="https://github.com/user-attachments/assets/0322d0ba-683d-4b69-9a0b-3c1b31167de3" />
-
+<img width="699" height="412" alt="589353814-caef7281-d7f9-4fbd-b8e2-2df02d43b9d4" src="https://github.com/user-attachments/assets/d3d0e6b4-ef6b-45ee-8c2a-ef79f7fcecaf" />
 
 Key IAM Concepts Practiced
 
