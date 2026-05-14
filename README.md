@@ -39,8 +39,10 @@ A domain (thm.local) was created with Organization Unit (OUs) to reflect differe
 
 <img width="800" height="492" alt="588460710-6d0f208d-6082-4c2c-a6d0-44e0862013b6" src="https://github.com/user-attachments/assets/d57f98e6-55e7-45f4-85ea-310a284be04c" />
 
-Security Groups (RBAC)
+## Security Groups (RBAC)
 
+Security groups were created to manage access by role:
+- H
 Security Groups
 
 <img width="831" height="530" alt="image" src="https://github.com/user-attachments/assets/49e1aaab-c41a-4ce3-8622-e23e1a08a7d2" />
