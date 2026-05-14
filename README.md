@@ -1,11 +1,11 @@
-# Active-Directory Lab
+# Active-Directory IAM Lab
 This home lab demonstrates hands-on Identity and Access Management (IAM) using an Active Directory (AD) on RaspberryPi.
 
 It simulates real-world IAM processes including:
 
 - User provisioning (Joiner)
 - Role changes (Mover)
-- User deprovisioning (Leaver
+- User deprovisioning (Leaver)
 - Role based access control (RBAC)
 - Access Validation
 - File/folder access control
@@ -35,7 +35,7 @@ A domain (thm.local) was created with Organization Unit (OUs) to reflect differe
 
 <img width="802" height="265" alt="image" src="https://github.com/user-attachments/assets/aa159f26-db5c-4ae6-bc94-0772ae27f33c" />
 
-OU Structure
+### OU Structure
 
 <img width="800" height="492" alt="588460710-6d0f208d-6082-4c2c-a6d0-44e0862013b6" src="https://github.com/user-attachments/assets/d57f98e6-55e7-45f4-85ea-310a284be04c" />
 
@@ -60,18 +60,41 @@ Access Validation (Before Role Change)
 Role Change (Mover)
 <img width="842" height="422" alt="image" src="https://github.com/user-attachments/assets/caef7281-d7f9-4fbd-b8e2-2df02d43b9d4" />
 
-User Deprovisioning (Leaver)
+## User Deprovisioning (Leaver)
 
-Account Disabled
+# Account Disabled
 
-Administrative Access Control
+## Administrative Access Control
+
+Admin priviledges were assigned via group membership instead of directly to users
+
+# Admin Group Assignment
 
 <img width="699" height="326" alt="589353814-caef7281-d7f9-4fbd-b8e2-2df02d43b9d4" src="https://github.com/user-attachments/assets/37817e80-5bbb-4da7-bb1d-3abe4e76418a" />
 
-Key IAM Concepts Practiced
+## Key IAM Concepts Practiced
 
-Whats the Purpose of this Project?
+- User Lifecycle Management
+- Role-Based Access Control (RBAC)
+- Least Priviledge Principle
+- Access Reviews & Validation
+- Security Group Management
+- Account Deprovision
+- Organizational Unit (OU) Design
 
-Tools Used362
-3
-+
+## Whats the Purpose of this Project?
+
+This home lab simulates how real organizations manage and identity and access scurely.
+
+It demonstrates the ability to:
+
+- Provision and manage users in Active Directory
+- Assign and validate access based on job roles
+- Enforce lease priviledge
+- Remove access during termination
+- Apply access control to resources
+
+## Tools Used
+- Active Directory Domain Services (AD DS)
+- Windows Server
+- VirtualBox
