@@ -69,10 +69,10 @@ Users were assigned to security groups to grant appropriate access.
 
 ### Before Role Change
 
-<img width="817" height="414" alt="588653142-561ed281-3192-47fe-a9b9-e061d6c105e4" src="https://github.com/user-attachments/assets/693bc501-106e-44cc-979a-7776e9d2f0dc" />
+<img width="842" height="422" alt="image" src="https://github.com/user-attachments/assets/caef7281-d7f9-4fbd-b8e2-2df02d43b9d4" />
 
 ## Role Change (Mover)
-<img width="842" height="422" alt="image" src="https://github.com/user-attachments/assets/caef7281-d7f9-4fbd-b8e2-2df02d43b9d4" />
+
 
 ## User Deprovisioning (Leaver)
 
