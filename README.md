@@ -82,7 +82,7 @@ Users were assigned to security groups to grant appropriate access.
 
 Admin priviledges were assigned via group membership instead of directly to users
 
-# Admin Group Assignment
+### Admin Group Assignment
 
 <img width="699" height="326" alt="589353814-caef7281-d7f9-4fbd-b8e2-2df02d43b9d4" src="https://github.com/user-attachments/assets/37817e80-5bbb-4da7-bb1d-3abe4e76418a" />
 
