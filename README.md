@@ -157,4 +157,4 @@ It demonstrates the ability to:
 ## Tools Used
 - Active Directory Domain Services (AD DS)
 - Windows Server
-- VirtualBox
+- Virtual Lab Environment
