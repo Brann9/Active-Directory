@@ -9,7 +9,7 @@ It simulates real-world IAM processes including:
 - Role based access control (RBAC)
 - Access Validation
 - File/folder access control
-
+  <br/>
 ## Environment Setup
 
 Windows 2012 Server domain controller was configured with Active Directory Domain Services (AD DS) and DNS
