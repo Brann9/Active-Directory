@@ -77,6 +77,7 @@ Users were assigned to security groups to grant appropriate access.
 
 ## Access Validation (Before Role Change)
 
+User access was reviewed to confirm current permissions aligned with job role
 ### Before Role Change
 
 <img width="842" height="422" alt="image" src="https://github.com/user-attachments/assets/caef7281-d7f9-4fbd-b8e2-2df02d43b9d4" />
@@ -84,6 +85,10 @@ Users were assigned to security groups to grant appropriate access.
 <hr>
 
 ## Role Change (Mover)
+
+User access was updated after a role change by removing old permissions and assigning new ones.
+
+<img width="534" height="293" alt="image" src="https://github.com/user-attachments/assets/3f96574d-1b7a-4ec7-8ca1-c3f92c3eb321" />
 
 <hr>
 
