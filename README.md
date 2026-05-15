@@ -23,6 +23,7 @@ Windows 2012 Server domain controller was configured with Active Directory Domai
 
 <img style="max-width: 100%;" alt="image" src="https://github.com/user-attachments/assets/5a4f2362-1c78-4af8-b683-6a28d9789443" />
 
+<hr>
 
 ## Domain & OU 
 
@@ -32,8 +33,6 @@ A domain (thm.local) was created with Organization Unit (OUs) to reflect differe
 - Sales
 - Marketing
 - Management
-
-<hr>
 
 ### Domain Structure 
 
