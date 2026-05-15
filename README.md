@@ -55,11 +55,9 @@ Security groups were created to manage access by role:
 
 <img width="831" height="530" alt="image" src="https://github.com/user-attachments/assets/49e1aaab-c41a-4ce3-8622-e23e1a08a7d2" />
 
-User Provioning (Joiner)
+## User Provioning (Joiner)
 
 New users were created and placed into the correct OU based on department
-
-<hr>
 
 ### User Provisioning
 
