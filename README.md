@@ -88,7 +88,7 @@ User access was reviewed to confirm current permissions aligned with job role
 
 User access was updated after a role change by removing old permissions and assigning new ones.
 
-<img width="534" height="293" alt="image" src="https://github.com/user-attachments/assets/3f96574d-1b7a-4ec7-8ca1-c3f92c3eb321" />
+<img width="525" height="298" alt="image" src="https://github.com/user-attachments/assets/9b93752f-c2ac-4d66-ac57-de67483808aa" />
 
 <hr>
 
