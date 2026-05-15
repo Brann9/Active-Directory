@@ -9,7 +9,7 @@ It simulates real-world IAM processes including:
 - Role based access control (RBAC)
 - Access Validation
 - File/folder access control
-  <hr>
+<hr>
 ## Environment Setup
 
 Windows 2012 Server domain controller was configured with Active Directory Domain Services (AD DS) and DNS
@@ -31,6 +31,8 @@ A domain (thm.local) was created with Organization Unit (OUs) to reflect differe
 - Marketing
 - Management
 
+<hr>
+
 ### Domain Structure 
 
 <img width="802" height="265" alt="image" src="https://github.com/user-attachments/assets/aa159f26-db5c-4ae6-bc94-0772ae27f33c" />
@@ -45,6 +47,8 @@ Security groups were created to manage access by role:
 - HR_Group
 - IT_Admins
 
+<hr>
+
 ### Security Groups
 
 <img width="831" height="530" alt="image" src="https://github.com/user-attachments/assets/49e1aaab-c41a-4ce3-8622-e23e1a08a7d2" />
@@ -53,9 +57,13 @@ User Provioning (Joiner)
 
 New users were created and placed into the correct OU based on department
 
+<hr>
+
 ### User Provisioning
 
 <img width="814" height="405" alt="588650178-f5bab6c1-e53a-44e1-adbc-cec10001edbb" src="https://github.com/user-attachments/assets/b98612f2-4fd7-49c2-b513-112725632c03" />
+
+<hr>
 
 ## Role-Based Access Control (RBAC)
 
@@ -65,18 +73,25 @@ Users were assigned to security groups to grant appropriate access.
 
 <img width="824" height="403" alt="588650376-7928efb4-f751-4495-b172-19cb3dd951bc" src="https://github.com/user-attachments/assets/f3978715-dd63-4359-9f62-c0b623b1c01b" />
 
+<hr>
+
 ## Access Validation (Before Role Change)
 
 ### Before Role Change
 
 <img width="842" height="422" alt="image" src="https://github.com/user-attachments/assets/caef7281-d7f9-4fbd-b8e2-2df02d43b9d4" />
 
+<hr>
+
 ## Role Change (Mover)
 
+<hr>
 
 ## User Deprovisioning (Leaver)
 
 # Account Disabled
+
+<hr>
 
 ## Administrative Access Control
 
@@ -85,6 +100,8 @@ Admin priviledges were assigned via group membership instead of directly to user
 ### Admin Group Assignment
 
 <img width="699" height="326" alt="589353814-caef7281-d7f9-4fbd-b8e2-2df02d43b9d4" src="https://github.com/user-attachments/assets/37817e80-5bbb-4da7-bb1d-3abe4e76418a" />
+
+<hr>
 
 ## Key IAM Concepts Practiced
 
@@ -95,6 +112,8 @@ Admin priviledges were assigned via group membership instead of directly to user
 - Security Group Management
 - Account Deprovision
 - Organizational Unit (OU) Design
+
+<hr>
 
 ## Whats the Purpose of this Project?
 
@@ -107,6 +126,8 @@ It demonstrates the ability to:
 - Enforce lease priviledge
 - Remove access during termination
 - Apply access control to resources
+
+<hr>
 
 ## Tools Used
 - Active Directory Domain Services (AD DS)
