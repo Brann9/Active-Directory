@@ -33,6 +33,7 @@ A domain (thm.local) was created with Organization Unit (OUs) to reflect differe
 - Sales
 - Marketing
 - Management
+- Disabled Users
 
 ### Domain Structure 
 
