@@ -110,7 +110,11 @@ This enforces:
 
 ## User Deprovisioning (Leaver)
 
-# Account Disabled
+User account diabled and moved to "Disabled Users" OU to remove access.
+
+### Account Disabled 
+
+<img width="563" height="308" alt="image" src="https://github.com/user-attachments/assets/6fc7bde0-04cc-4a39-bcda-c142c4060481" />
 
 <hr>
 
