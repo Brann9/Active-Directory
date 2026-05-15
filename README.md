@@ -92,6 +92,22 @@ User access was updated after a role change by removing old permissions and assi
 
 <hr>
 
+File/Folder Access Control
+
+Permissions were applie to shared folders based on security group membership.
+
+This enforces:
+
+- Lease privilege
+- Department based access
+- Controlled resource access
+
+### Folder Permissions (RBAC Applied)
+
+<img width="470" height="307" alt="image" src="https://github.com/user-attachments/assets/a0e415e3-6e8d-4e66-acb6-91f2dfc45089" />
+
+<hr>
+
 ## User Deprovisioning (Leaver)
 
 # Account Disabled
@@ -100,7 +116,7 @@ User access was updated after a role change by removing old permissions and assi
 
 ## Administrative Access Control
 
-Admin priviledges were assigned via group membership instead of directly to users
+Admin privileges were assigned via group membership instead of directly to users
 
 ### Admin Group Assignment
 
@@ -112,7 +128,7 @@ Admin priviledges were assigned via group membership instead of directly to user
 
 - User Lifecycle Management
 - Role-Based Access Control (RBAC)
-- Least Priviledge Principle
+- Least Privilege Principle
 - Access Reviews & Validation
 - Security Group Management
 - Account Deprovision
@@ -128,7 +144,7 @@ It demonstrates the ability to:
 
 - Provision and manage users in Active Directory
 - Assign and validate access based on job roles
-- Enforce lease priviledge
+- Enforce lease privilege
 - Remove access during termination
 - Apply access control to resources
 
